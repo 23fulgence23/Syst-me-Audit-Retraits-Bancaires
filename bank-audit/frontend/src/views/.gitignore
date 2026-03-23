@@ -1,9 +1,9 @@
 # Dossiers de dépendances à ignorer
 node_modules/
+frontend/node_modules/
 dist/
 __pycache__/
-.venv/
-venv/
+.env
 
 # Fichiers de configuration de l'éditeur
 .vscode/
